@@ -1,2 +1,2 @@
 # oveda2023
-Auger, Otevrena veda 2023
+Auger Open Data 2023
